@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+#word-input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+#result {
+  text-align: center;
+  margin-top: 20px;
+  font-weight: bold;
+}
