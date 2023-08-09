@@ -10,12 +10,19 @@ Data Structures:
 Data structures are ways of organizing and storing data in a computer's memory or storage. They play a crucial role in managing and accessing data efficiently. Some common data structures include:
 
 Arrays: A collection of elements, each identified by an index or a key.
+
 Linked Lists: A linear collection of nodes, where each node points to the next node.
+
 Stacks: A collection of elements with two main operations: push (add) and pop (remove).
+
 Queues: A collection of elements with two main operations: enqueue (add) and dequeue (remove).
+
 Trees: Hierarchical structures with nodes connected by edges, including binary trees, AVL trees, and more.
+
 Graphs: A collection of nodes (vertices) connected by edges, representing relationships between entities.
+
 Algorithms:
+
 Algorithms are step-by-step procedures for solving a problem or performing a task. They are essential for manipulating data within data structures effectively. Some common algorithms include:
 
 Sorting Algorithms: Arrange elements in a specific order, such as bubble sort, insertion sort, merge sort, quicksort, etc.
