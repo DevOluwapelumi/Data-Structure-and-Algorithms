@@ -16,17 +16,11 @@ Trees: Hierarchical structures with nodes connected by edges, including binary t
 Graphs: A collection of nodes (vertices) connected by edges, representing relationships between entities.
 
 Algorithms:
-
 Algorithms are step-by-step procedures for solving a problem or performing a task. They are essential for manipulating data within data structures effectively. Some common algorithms include:
-
-Sorting Algorithms: Arrange elements in a specific order, such as bubble sort, insertion sort, merge sort, quicksort, etc.
-
+Sorting Algorithms: Arrange elements in a specific order, such as bubble sort, insertion sort, merge sort, quicksort, etc
 Searching Algorithms: Find the location of a specific element in a data structure, such as linear search and binary search.
-
 Graph Algorithms: Solve problems related to graphs, such as breadth-first search (BFS), depth-first search (DFS), Dijkstra's algorithm, and Kruskal's algorithm.
-
 Dynamic Programming: Solve problems by breaking them into smaller subproblems and reusing solutions to subproblems.
-
 Greedy Algorithms: Make locally optimal choices to find a global optimum at each step.
 
 If you have specific questions about data structures, algorithms, their implementations, or any related topic, please provide more details, and I'll be happy to assist you further!
