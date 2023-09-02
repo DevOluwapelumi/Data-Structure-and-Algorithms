@@ -8,17 +8,11 @@ If you're seeking information or assistance regarding data structures and algori
 
 Data Structures:
 Data structures are ways of organizing and storing data in a computer's memory or storage. They play a crucial role in managing and accessing data efficiently. Some common data structures include:
-
-Arrays: A collection of elements, each identified by an index or a key.
-
+Arrays: A collection of elements identified by an index or a key.
 Linked Lists: A linear collection of nodes, where each node points to the next node.
-
 Stacks: A collection of elements with two main operations: push (add) and pop (remove).
-
 Queues: A collection of elements with two main operations: enqueue (add) and dequeue (remove).
-
 Trees: Hierarchical structures with nodes connected by edges, including binary trees, AVL trees, and more.
-
 Graphs: A collection of nodes (vertices) connected by edges, representing relationships between entities.
 
 Algorithms:
